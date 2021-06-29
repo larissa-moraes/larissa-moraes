@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey  
+### Hey 
+#### hey
+Aprendendo sobre tecnologias digitais.
+#### | Cursista | 
+* [UFPa](https://www.portal.ufpa.br/) - [🌐Turismo](https://www.instagram.com/catur_ufpa/);
+* [CemV](https://www.cursoemvideo.com/cursos/) - Lógica; GIT-GitHub;
+
+#### | Conquistas recentes |
+* [HC](https://www.hiringcoders.com.br/) - Treinamento Front-End;
+* [\[DIO\]](https://web.digitalinnovation.one/users/larissamoraes_ferreira?tab=achievements) BootCamps ([Santander](https://web.digitalinnovation.one/track/santander-fullstack-developer));
