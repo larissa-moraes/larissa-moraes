@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **larissa-moraes/larissa-moraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hey  
 ### Hey 
 #### hey
-Aprendendo sobre tecnologias digitais.
+        👋 Aprendendo sobre tecnologias digitais.
 #### | Cursista | 
 * [UFPa](https://www.portal.ufpa.br/) - [🌐Turismo](https://www.instagram.com/catur_ufpa/);
 * [CemV](https://www.cursoemvideo.com/cursos/) - Lógica; GIT-GitHub;
