@@ -21,7 +21,7 @@ Here are some ideas to get you started:
         👋 Aprendendo sobre tecnologias digitais.
 #### | Cursista | 
 * [UFPa](https://www.portal.ufpa.br/) - [🌐Turismo](https://www.instagram.com/catur_ufpa/);
-* [CemV](https://www.cursoemvideo.com/cursos/) - Lógica; GIT-GitHub;
+* [CemV](https://www.cursoemvideo.com/cursos/) - Algoritmos e Lógica; GIT-GitHub;
 
 #### | Conquistas recentes |
 * [HC](https://www.hiringcoders.com.br/) - Treinamento Front-End;
