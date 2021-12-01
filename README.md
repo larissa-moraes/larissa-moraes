@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey  
+## HeY  
 ### Hey 
 #### hey
-        👋  sobre tecnologias digitais.
+        👋  Starting to play around with the web developer path. Helpfully I'll learn one thing or two.
         
-#### - 🌱 I’m currently learning ... 
-* [UFPa](https://www.portal.ufpa.br/) - [🌐Turismo](https://www.instagram.com/catur_ufpa/);
+#### - 🌱 I’m currently learning ...
 * HTML
