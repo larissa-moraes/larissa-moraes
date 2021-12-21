@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## HeY  
-### Hey 
-#### hey
-        👋  Starting to play around with the web developer path. Helpfully I'll learn one thing or two.
+## 👋👋👋　Olá! Hello! 大家好！こんにちは！　👋👋👋
+
+20211204 - Web Development | App . Ｉｓtart to play around with the web developer path �. Helpfully I'll learn one thing or two.
+20211221 - Bootcamp Inter Frontend Developer | DIO
+20211221 - Bootcamp MRV Fullstack Developer  | DIO
         
 #### - 🌱 I’m currently learning ...
 * HTML
+* Semantic HTML
+* CSS Basics
+#### 📫 How to reach me: https://linktr.ee/Larissa.Moraes
