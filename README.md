@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 *      2.0 CSS
 *      3.0 JavaScript
 *      4.0 ReactJs
-*
+
 * Desenvolvimento Back-end c/ Nodejs
 *      1.0 Lógica de programação
 *      2.0 Banco de dados - SQL MONGODB
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
         - How apply data with tourism;
         
 #### 📫 How to reach me: 
-*➡https://www.linkedin.com/in/larissxmoraes/⬅
-*➡https://twitter.com/larissx_moraes⬅
-*➡https://www.instagram.com/⬅
+* https://www.linkedin.com/in/larissxmoraes/
+* https://twitter.com/larissx_moraes
+* https://www.instagram.com/
